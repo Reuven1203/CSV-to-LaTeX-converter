@@ -1,0 +1,7 @@
+File EmployerInterview-Missing Data-CSV.csv line 4.
+14/05/2020,Steve,1512,***,Ottawa/ON,NO
+Missing:Industry
+
+File salaryStudy-MissingAttr-CSV.csv is invlaid: attribute is missing.
+Profession,Number of samples,Average Salary,***,Average Age
+File is not converted to LATEX
